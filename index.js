@@ -12,7 +12,7 @@ const client = new Client({
   // Owner 1
     { name: "VA", lid: "247579682029763@lid", jid: "972569311531@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "249969148640@s.whatsapp.net" },
+    { name: "emam", lid: "249969148640@lid", jid: "249969148640@s.whatsapp.net" },
   // Owner 3
     { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
@@ -33,7 +33,7 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ 𝙋𝙊𝙈𝙉𝙄 🎪 〈", 
+  nameBot: "𝑅𝐴𝐵𝐴𝐻 𝐵𝑂𝑇 〈", 
   nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
